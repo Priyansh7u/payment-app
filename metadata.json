@@ -1,0 +1,6 @@
+{
+  "name": "PhonePe Clone",
+  "description": "A high-fidelity PhonePe clone featuring seamless UPI transfers, persistent Room transaction history, simulated QR code scanning, secure utility bill payments, and an interactive AI financial spending assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
